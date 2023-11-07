@@ -11,5 +11,5 @@ You are attempting to save the cart items to localStorage, but you are referenci
 3)What would you recommend they do to extend this?
 
 You can consider optimizing the code for performance by minimizing DOM manipulation or bundling and minifying JavaScript files for production.
-If you have repetitive code, consider creating functions or loops to handle similar tasks.
-For example, when creating products, you could use a loop or caching DOM elements in variables.
+If you have repetitive code, consider creating functions or loops or caching elements in variables to handle similar tasks.
+For example, when creating products, you could use a loop.
